@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "test-website",
+    "title": "dplloyd",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "posts",
+    "section": "",
+    "text": "Refreshing my website\n\n\n\nQuarto\n\n\nR\n\n\nGitHub\n\n\n\nRebuilding my website using Quarto and GitHub Pages\n\n\n\nDiarmuid Lloyd\n\n\nMay 8, 2027\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2025-08-29-building-a-quarto-website/index.html",
+    "href": "posts/2025-08-29-building-a-quarto-website/index.html",
+    "title": "Refreshing my website",
+    "section": "",
+    "text": "Here is where I will start writing my actual blog post content…"
   }
 ]

@@ -1,0 +1,12 @@
+---
+title: "Refreshing my website "
+description: "Rebuilding my website using Quarto and GitHub Pages"
+author:
+  - name: Diarmuid Lloyd
+date: 29-08-2025
+categories: [Quarto, R, GitHub]
+#image: preview-image.png
+draft: false
+---
+
+I recently remembered I had a mouldering website with a grand total of two posts. While I don't think I'll suddenly be writing lots of posts, I thought it looked a little dated, and it was a little bit of a pain to update. I've therefore used [this excellent tutorial](https://ucsb-meds.github.io/creating-quarto-websites/) to set up a new website using Quarto and GitHub pages, and the [blog from here](https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/).

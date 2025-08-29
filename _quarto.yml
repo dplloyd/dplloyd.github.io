@@ -4,16 +4,19 @@ project:
 
 
 website:
-  title: "test-website"
+  title: "dplloyd"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - posts.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: 
+     light: cosmo
+     dark: solar
     css: styles.css
     toc: true
 
